@@ -74,6 +74,13 @@ img{
     #hero{
         height: 100%;
     }
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+      }
 }
 
 @media (max-width:540px){
@@ -89,5 +96,4 @@ img{
     .lead {
         font-size: 1rem;
     }
-
 }
