@@ -1,0 +1,46 @@
+body{
+    background-color: #d1d0c5;
+}
+
+.heading{
+    /* display: block; */
+    text-align: center;
+    /* margin: 0;
+    padding: 0; */
+    font-weight: bolder;
+    font-size: 70px;
+    font-family: "DM Serif Display", serif;
+    /* margin-bottom: 1rem; */
+}
+
+.describe {
+    font-size: 20px;
+    font-family: "DM Sans", sans-serif;
+    margin: 0;
+    margin-bottom: 1rem;
+}
+
+.imp{
+    font-weight: bold;
+}
+
+.btn{
+    margin: 1rem;
+    padding: 0.5rem;
+    width: 125px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-size:1rem;
+}
+
+.project-btn{
+    width: 290px;
+}
+
+
+.d-block{
+    border-radius: 50%;
+    height: 700px;
+    width: 600px;
+    padding: 20px ;
+}
