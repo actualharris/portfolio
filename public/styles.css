@@ -15,7 +15,7 @@ body{
     font-size: 4.5rem;
 }
 
-.describe {
+.lead {
     font-size: 1.2rem;
     font-family: "DM Sans", sans-serif;
     margin: 0;
@@ -61,4 +61,33 @@ body{
 
 img{
     border-radius: 50%;
+}
+
+.d-grid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width:960px){
+
+    #hero{
+        height: 100%;
+    }
+}
+
+@media (max-width:540px){
+
+    #hero{
+        height: 100%;
+    }
+    
+    .heading{
+        font-size: 3rem;
+    }
+
+    .lead {
+        font-size: 1rem;
+    }
+
 }
