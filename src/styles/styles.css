@@ -40,7 +40,7 @@ body{
 }
 
 
-.project-container {
+/* .project-container {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
   }
   
@@ -53,10 +53,12 @@ body{
     position: relative;
   }
   
-  .project-content {
-    transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.3s ease; /* Add opacity transition */
-    opacity: 1; /* Initially fully opaque */
-  }
+  .project-content {  */
+    /* Add opacity transition */
+    /* transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.3s ease;  */
+    /* Initially fully opaque */
+    /* opacity: 1; 
+  } */
   
 
 img{
