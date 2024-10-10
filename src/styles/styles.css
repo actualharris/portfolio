@@ -71,7 +71,7 @@ img{
     justify-content: center;
 }
 
-@media (max-width:960px){
+@media (max-device-width:960px) or (max-width:960px){
 
     #hero{
         height: 100%;
@@ -85,7 +85,7 @@ img{
     }
 }
 
-@media (max-width:540px){
+@media (max-device-width:540px) or (max-width:540px){
 
     #hero{
         height: 100%;
