@@ -23,6 +23,13 @@ body{
     margin-bottom: 1rem;
 }
 
+.tiny{
+    font-size: 1rem;
+    font-family: "DM Sans", sans-serif;
+    margin: 0;
+    margin-left: 2.1rem;
+}
+
 .imp{
     font-weight: bold;
 }
@@ -84,6 +91,11 @@ img{
         margin-right: auto;
         width: 100%;
     }
+
+    .tiny{
+        font-size: 1rem;
+        text-align: center;
+    }
 }
 
 @media (max-device-width:540px) or (max-width:540px){
@@ -98,6 +110,11 @@ img{
 
     .lead {
         font-size: 1rem;
+    }
+
+    .tiny{
+        font-size: 0.8rem;
+        text-align: center;
     }
 
     .hey{
